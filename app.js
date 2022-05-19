@@ -15,7 +15,7 @@ app.get('/products', (req, res) => {
     },
     {
       productId: '222',
-      productname: 'Vicky Tennis Ball',
+      productname: 'Leather Ball',
       price: 80
     },
     {
